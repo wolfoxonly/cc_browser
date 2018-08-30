@@ -48,8 +48,8 @@
   "wallet": {
     "host": "localhost",
     "port": 9989,
-    "user": "rpcuser",
-    "pass": "~rpcpassword"
+    "user": "~Cpucoinrpcuser",
+    "pass": "~Cpucoinrpcpassword"
   },
 
   // confirmations
